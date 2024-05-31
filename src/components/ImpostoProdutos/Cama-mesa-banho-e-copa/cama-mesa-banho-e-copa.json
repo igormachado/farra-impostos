@@ -1,0 +1,25 @@
+[
+  { "produto": "Cobertor", "imposto": "26,05%" },
+  { "produto": "Colchão", "imposto": "28,36%" },
+  { "produto": "Copos", "imposto": "37,88%" },
+  { "produto": "Edredom", "imposto": "36,22%" },
+  { "produto": "Faca", "imposto": "42,70%" },
+  { "produto": "Faqueiro", "imposto": "42,17%" },
+  { "produto": "Filtro de papel", "imposto": "37,48%" },
+  { "produto": "Fósforos", "imposto": "33,87%" },
+  { "produto": "Garrafa térmica", "imposto": "44,63%" },
+  { "produto": "Guardanapo de papel", "imposto": "38,44%" },
+  { "produto": "Lençol", "imposto": "26,05%" },
+  { "produto": "Panelas", "imposto": "45,77%" },
+  { "produto": "Papel alumínio", "imposto": "37,96%" },
+  { "produto": "Papel celofane", "imposto": "34,48%" },
+
+  { "produto": "Papel filtro", "imposto": "45,31%" },
+  { "produto": "Peneira de couro", "imposto": "39,80%" },
+  { "produto": "Pratos (cozinha)", "imposto": "44,76%" },
+  { "produto": "Taças", "imposto": "44,40%" },
+  { "produto": "Talheres", "imposto": "34,30%" },
+  { "produto": "Toalha de banho", "imposto": "34,67%" },
+  { "produto": "Toalha de mesa", "imposto": "34,67%" },
+  { "produto": "Travesseiro", "imposto": "26,05%" }
+]

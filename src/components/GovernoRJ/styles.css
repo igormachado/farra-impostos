@@ -1,0 +1,14 @@
+#gif-construcao {
+    display: flex;
+    margin-top: 100px;
+    margin-left: 35%;
+    /* margin-right: 50%; */
+}
+
+#gif-construcao img {
+    width: 500px;
+}
+
+#governorj {
+    margin-top: 20px;
+}

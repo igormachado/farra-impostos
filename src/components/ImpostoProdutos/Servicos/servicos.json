@@ -1,0 +1,32 @@
+[
+  { "produto": "Academia", "imposto": "26,86%" },
+  { "produto": "Adestramento de cães", "imposto": "26,86%" },
+  { "produto": "Almoço em restaurante", "imposto": "32,31%" },
+  { "produto": "Buffet (restaurante)", "imposto": "32,31%" },
+  { "produto": "Casamento (cerimônia na igreja)", "imposto": "0,00%" },
+  { "produto": "Casamento no civil", "imposto": "16,93%" },
+  { "produto": "Consulta veterinária", "imposto": "26,86%" },
+  { "produto": "Conta de telefone", "imposto": "46,12%" },
+  { "produto": "Cremação", "imposto": "26,86%" },
+  { "produto": "Decoração para igreja (flores)", "imposto": "17,71%" },
+  { "produto": "Dia da noiva (salão de beleza)", "imposto": "26,32%" },
+  { "produto": "Escola particular e curso de inglês", "imposto": "26,32%" },
+  { "produto": "Hospedagem em hotel", "imposto": "29,56%" },
+  { "produto": "Hotel para animais", "imposto": "26,86%" },
+  { "produto": "Ingressos (tickets)", "imposto": "20,85%" },
+  { "produto": "Jantar em restaurante", "imposto": "32,31%" },
+  { "produto": "Jornal", "imposto": "14,09%" },
+  { "produto": "Juros bancários", "imposto": "26,39%" },
+  { "produto": "Mensalidade do clube", "imposto": "26,86%" },
+  {
+    "produto": "Pacote hotel, ingresso e van - Desfile carnaval",
+    "imposto": "36,28%"
+  },
+  { "produto": "Pacote lua de mel (viagem)", "imposto": "29,56%" },
+  { "produto": "Passagem aérea", "imposto": "22,32%" },
+  { "produto": "Serviço de TV por assinatura", "imposto": "24,20%" },
+  { "produto": "Tanatopraxia (maquiagem mortos)", "imposto": "26,32%" },
+  { "produto": "Teatro e cinema", "imposto": "20,85%" },
+  { "produto": "Transporte coletivo", "imposto": "33,75%" },
+  { "produto": "Universidade (mensalidade)", "imposto": "26,32%" }
+]

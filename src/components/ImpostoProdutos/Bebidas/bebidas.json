@@ -1,0 +1,25 @@
+[
+    {"produto":"Água com açúcar e edulcorantes" , "imposto":"53,02%"},
+{"produto":"Água de coco" , "imposto":"34,13%"},
+{"produto":"Água mineral" , "imposto":"31,50%"},
+{"produto":"Cachaça" , "imposto":"81,87%"},
+{"produto":"Caipirinha" , "imposto":"76,66%"},
+{"produto":"Cerveja artesanal" , "imposto":"42,69%"},
+{"produto":"Cerveja (lata)" , "imposto":"42,69%"},
+{"produto":"Cerveja garrafa" , "imposto":"42,69%"},
+{"produto":"Champagne" , "imposto":"59,49%"},
+{"produto":"Chope" , "imposto":"62,20%"},
+{"produto":"Espumante" , "imposto":"59,49%"},
+{"produto":"Quentão" , "imposto":"61,56%"},
+{"produto":"Refresco em pó" , "imposto":"36,30%"},
+{"produto":"Refrigerante (lata)" , "imposto":"46,47%"},
+{"produto":"Refrigerante garrafa" , "imposto":"44,55%"},
+{"produto":"Sidra" , "imposto":"48,24%"},
+{"produto":"Suco pronto" , "imposto":"36,21%"},
+{"produto":"Vermute" , "imposto":"61,85%"},
+{"produto":"Vinho nacional" , "imposto":"44,73%"},
+{"produto":"Vinho importado" , "imposto":"59,73%"},
+{"produto":"Vodca" , "imposto":"67,03%"},
+{"produto":"Uísque" , "imposto":"67,03%"}
+
+]

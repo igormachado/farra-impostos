@@ -1,0 +1,5 @@
+[
+  { "produto": "Água", "imposto": "37,88%" },
+  { "produto": "Conta de água", "imposto": "24,02%" },
+  { "produto": "Conta de luz", "imposto": "48,28%" }
+]

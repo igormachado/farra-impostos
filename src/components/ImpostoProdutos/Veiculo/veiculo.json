@@ -1,0 +1,13 @@
+[
+  { "produto": "Avião", "imposto": "42,09%" },
+  { "produto": "Ambulância", "imposto": "35,56%" },
+  { "produto": "Barco", "imposto": "28,31%" },
+
+  { "produto": "Baú de alumínio (veículo)", "imposto": "42,01%" },
+  { "produto": "Bicicleta", "imposto": "45,93%" },
+  { "produto": "Moto (acima de 250CC)", "imposto": "64,65%" },
+  { "produto": "Moto (até 125CC)", "imposto": "52,54%" },
+  { "produto": "Trator", "imposto": "31,78%" },
+  { "produto": "Veículo 1.0 ", "imposto": "33,81%" },
+  { "produto": "Veículo 2.0 ", "imposto": "38,70%" }
+]

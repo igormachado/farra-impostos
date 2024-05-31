@@ -1,0 +1,472 @@
+[
+  {
+    "Fonte": "1500100 - RECURSOS NAO VINCULADOS DE IMPOSTOS",
+    "Valor Previsto": 19874947124,
+    "Valor Arrecadado": "19228679258,31"
+  },
+  {
+    "Fonte": "1501100 - OUTROS RECURSOS NAO VINCULADOS",
+    "Valor Previsto": 1999654089,
+    "Valor Arrecadado": "2054417095,24"
+  },
+  {
+    "Fonte": "1501101 - OUTROS RECURSOS NAO VINCULADOS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "2196,75"
+  },
+  {
+    "Fonte": "1501127 - OUTROS RECURSOS NAO VINCULADOS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "231424,92"
+  },
+  {
+    "Fonte": "1501200 - OUTROS RECURSOS NAO VINCULADOS",
+    "Valor Previsto": 385660347,
+    "Valor Arrecadado": "382240006,45"
+  },
+  {
+    "Fonte": "1502100 - RECURSOS NAO VINCULADOS DA COMPENSACAO DE IMPOSTOS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "107855763,36"
+  },
+  {
+    "Fonte": "1540142 - TRANSFERENCIAS DO FUNDEB - IMPOSTOS E TRANSFERENCIAS DE IMPOSTOS",
+    "Valor Previsto": 3866790041,
+    "Valor Arrecadado": "3752133789,15"
+  },
+  {
+    "Fonte": "1541142 - TRANSFERENCIAS DO FUNDEB - COMPLEMENTACAO DA UNIAO - VAAF",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "582524709,33"
+  },
+  {
+    "Fonte": "1543142 - TRANSFERENCIAS DO FUNDEB - COMPLEMENTACAO DA UNIAO - VAAR",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "37340131,31"
+  },
+  {
+    "Fonte": "1550107 - TRANSFERENCIA DO SALARIO- EDUCACAO",
+    "Valor Previsto": 455089557,
+    "Valor Arrecadado": "476674179,61"
+  },
+  {
+    "Fonte": "1551114 - TRANSFERENCIAS DE RECURSOS DO FNDE REFERENTES AO PROGRAMA DINHEIRO DIRETO NA ESCOLA (PDDE)",
+    "Valor Previsto": 30174872,
+    "Valor Arrecadado": "33523839,89"
+  },
+  {
+    "Fonte": "1552115 - TRANSFERENCIAS DE RECURSOS DO FNDE REFERENTES AO PROGRAMA NACIONAL DE ALIMENTACAO ESCOLAR",
+    "Valor Previsto": 88831992,
+    "Valor Arrecadado": "118055976,55"
+  },
+  {
+    "Fonte": "1553113 - TRANSFERENCIAS DE RECURSOS DO FNDE REFERENTES AO PROGRAMA NACIONAL DE APOIO AO TRANSPORTE",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "233,23"
+  },
+  {
+    "Fonte": "1569113 - OUTRAS TRANSFERENCIAS DE RECURSOS DO FNDE",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "11963026,82"
+  },
+  {
+    "Fonte": "1569116 - OUTRAS TRANSFERENCIAS DE RECURSOS DO FNDE",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "1414253,71"
+  },
+  {
+    "Fonte": "1573155 - ROYALTIES DO PETROLEO E GAS NATURAL VINCULADOS A EDUCACAO",
+    "Valor Previsto": 45391471,
+    "Valor Arrecadado": "48226420,88"
+  },
+  {
+    "Fonte": "1599116 - OUTROS RECURSOS VINCULADOS A EDUCACAO",
+    "Valor Previsto": 320000,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "1600181 - TRANSFERENCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "104265,29"
+  },
+  {
+    "Fonte": "1600194 - TRANSFERENCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE",
+    "Valor Previsto": 2381626404,
+    "Valor Arrecadado": "2297015338,99"
+  },
+  {
+    "Fonte": "1601185 - TRANSFERENCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE",
+    "Valor Previsto": 3354625,
+    "Valor Arrecadado": "10262962,73"
+  },
+  {
+    "Fonte": "1602188 - TRANSFERENCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "0,94"
+  },
+  {
+    "Fonte": "1604194 - TRANSFERENCIAS PROVENIENTES DO GOVERNO FEDERAL DESTINADAS AO VENCIMENTO DOS AGENTES COMUNI",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": 306422268
+  },
+  {
+    "Fonte": "1605194 - ASSISTENCIA FINANCEIRA DA UNIAO DESTINADA A COMPLEMENTACAO AO PAGAMENTO DOS PISOS SALARIAI",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "73188452,4"
+  },
+  {
+    "Fonte": "1621196 - TRANSFERENCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO ESTADUAL",
+    "Valor Previsto": 345875393,
+    "Valor Arrecadado": "173281325,79"
+  },
+  {
+    "Fonte": "1621198 - TRANSFERENCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO ESTADUAL",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "694732,9"
+  },
+  {
+    "Fonte": "1631108 - TRANSFERENCIAS DO GOVERNO FEDERAL REFERENTES A CONVENIOS E INSTRUMENTOS CONGENERES VINCULA",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "793175,6"
+  },
+  {
+    "Fonte": "1635156 - ROYALTIES DO PETROLEO E GAS NATURAL VINCULADOS A SAUDE",
+    "Valor Previsto": 14882409,
+    "Valor Arrecadado": "15908546,71"
+  },
+  {
+    "Fonte": "1636108 - OUTRAS TRANSFERENCIAS DE CONVENIOS E INSTRUMENTOS CONGENERES VINCULADOS A SAUDE",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "1659105 - OUTROS RECURSOS VINCULADOS A SAUDE - DOACOES",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "89894,54"
+  },
+  {
+    "Fonte": "1659113 - OUTROS RECURSOS VINCULADOS A SAUDE",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "2216994,53"
+  },
+  {
+    "Fonte": "1659120 - OUTROS RECURSOS VINCULADOS A SAUDE",
+    "Valor Previsto": 70337273,
+    "Valor Arrecadado": "65804709,14"
+  },
+  {
+    "Fonte": "1659195 - OUTROS RECURSOS VINCULADOS A SAUDE",
+    "Valor Previsto": 14411311,
+    "Valor Arrecadado": "17991427,08"
+  },
+  {
+    "Fonte": "1659197 - OUTROS RECURSOS VINCULADOS A SAUDE",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "18471634,11"
+  },
+  {
+    "Fonte": "1660139 - TRANSFERENCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTENCIA SOCIAL - FNAS - TRANSFERENCIA C",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "1660157 - TRANSFERENCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTENCIA SOCIAL - FNAS - EMENDAS PARLAME",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "1660193 - TRANSFERENCIA DE RECURSOS DO FUNDO NACIONAL DE ASSISTENCIA SOCIAL - FNAS",
+    "Valor Previsto": 26618998,
+    "Valor Arrecadado": "59413902,5"
+  },
+  {
+    "Fonte": "1661193 - TRANSFERENCIA DE RECURSOS DOS FUNDOS ESTADUAIS DE ASSISTENCIA SOCIAL",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": 8149664
+  },
+  {
+    "Fonte": "1665108 - TRANSFERENCIAS DE CONVENIOS E INSTRUMENTOS CONGENERES VINCULADOS A ASSISTENCIA SOCIAL",
+    "Valor Previsto": 1050000,
+    "Valor Arrecadado": "1150225,8"
+  },
+  {
+    "Fonte": "1669113 - OUTROS RECURSOS VINCULADOS A ASSISTENCIA SOCIAL",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "382233,86"
+  },
+  {
+    "Fonte": "1700108 - OUTRAS TRANSFERENCIAS DE CONVENIOS OU INSTRUMENTOS CONGENERES DA UNIAO",
+    "Valor Previsto": 129268807,
+    "Valor Arrecadado": "29226266,48"
+  },
+  {
+    "Fonte": "1700139 - OUTRAS TRANSFERENCIAS DE CONVENIOS OU INSTRUMENTOS CONGENERES DA UNIAO",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": 1100000
+  },
+  {
+    "Fonte": "1700208 - OUTRAS TRANSFERENCIAS DE CONVENIOS OU INSTRUMENTOS CONGENERES DA UNIAO",
+    "Valor Previsto": 436212,
+    "Valor Arrecadado": "670743,61"
+  },
+  {
+    "Fonte": "1700218 - OUTRAS TRANSFERENCIAS DE CONVENIOS OU INSTRUMENTOS CONGENERES DA UNIAO",
+    "Valor Previsto": 1779845,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "1701208 - OUTRAS TRANSFERENCIAS DE CONVENIOS OU INSTRUMENTOS CONGENERES DOS ESTADOS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": 450000
+  },
+  {
+    "Fonte": "1702108 - OUTRAS TRANSFERENCIAS DE CONVENIOS OU INSTRUMENTOS CONGENERES DOS MUNICIPIOS",
+    "Valor Previsto": 1290507,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "1703108 - OUTRAS TRANSFERENCIAS DE CONVENIOS OU INSTRUMENTOS CONGENERES DE OUTRAS ENTIDADES",
+    "Valor Previsto": 8940740,
+    "Valor Arrecadado": "467328,14"
+  },
+  {
+    "Fonte": "1703208 - OUTRAS TRANSFERENCIAS DE CONVENIOS OU INSTRUMENTOS CONGENERES DE OUTRAS ENTIDADES",
+    "Valor Previsto": 1253909187,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "1703218 - OUTRAS TRANSFERENCIAS DE CONVENIOS OU INSTRUMENTOS CONGENERES DE OUTRAS ENTIDADES",
+    "Valor Previsto": 58171403,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "1704141 - TRANSFERENCIA DA UNIAO REFERENTE A ROYALTIES DO PETROLEO E GAS NATURAL",
+    "Valor Previsto": 519564244,
+    "Valor Arrecadado": "535198114,58"
+  },
+  {
+    "Fonte": "1705141 - TRANSFERENCIA DOS ESTADOS REFERENTE A ROYALTIES DO PETROLEO E GAS NATURAL",
+    "Valor Previsto": 415367444,
+    "Valor Arrecadado": "295720504,94"
+  },
+  {
+    "Fonte": "1706124 - TRANSFERENCIA ESPECIAL DA UNIAO",
+    "Valor Previsto": 1021826,
+    "Valor Arrecadado": "32251721,02"
+  },
+  {
+    "Fonte": "1706139 - TRANSFERENCIA ESPECIAL DA UNIAO",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "1707123 - TRANSFERENCIAS DA UNIAO - INCISO I DO ART. 5� DA LEI COMPLEMENTAR 173/2020",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "89033,33"
+  },
+  {
+    "Fonte": "1708100 - TRANSFERENCIA DA UNIAO REFERENTE A COMPENSACAO FINANCEIRA DE RECURSOS MINERAIS",
+    "Valor Previsto": 1540708,
+    "Valor Arrecadado": "846391,19"
+  },
+  {
+    "Fonte": "1711100 - DEMAIS TRANSFERENCIAS OBRIGATORIAS NAO DECORRENTES DE REPARTICOES DE RECEITAS.",
+    "Valor Previsto": 7332100,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "1711113 - DEMAIS TRANSFERENCIAS OBRIGATORIAS NAO DECORRENTES DE REPARTICOES DE RECEITA",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "14648535,94"
+  },
+  {
+    "Fonte": "1715113 - TRANSFERENCIAS DESTINADAS AO SETOR CULTURAL -  LC N 195/2022 - ART. 5  - AUDIOVISUAL",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "36213732,12"
+  },
+  {
+    "Fonte": "1716113 - TRANSFERENCIAS DESTINADAS AO SETOR CULTURAL - LC N� 195/2022 � ART. 8� - DEMAIS SETORES DA",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "14674002,93"
+  },
+  {
+    "Fonte": "1717134 - ASSISTENCIA FINANCEIRA TRANSPORTE COLETIVO � ART. 5� INCISO IV EC N� 123/2022",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "1070879,41"
+  },
+  {
+    "Fonte": "1719113 - TRANSFERENCIAS DA POLITICA NACIONAL ALDIR BLANC DE FOMENTO A CULTURA - LEI N 14399/2022",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "37720530,61"
+  },
+  {
+    "Fonte": "1749108 - OUTRAS VINCULACOES DE TRANSFERENCIAS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "385153,15"
+  },
+  {
+    "Fonte": "1749113 - OUTRAS VINCULACOES DE TRANSFERENCIAS - DIVERSAS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "1749208 - OUTRAS VINCULACOES DE TRANSFERENCIAS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "1230201893,69"
+  },
+  {
+    "Fonte": "1750140 - RECURSOS DA CONTRIBUICAO DE INTERVENCAO NO DOMINIO ECONOMICO - CIDE",
+    "Valor Previsto": 2120521,
+    "Valor Arrecadado": "394193,82"
+  },
+  {
+    "Fonte": "1751150 - RECURSOS DA CONTRIBUICAO PARA O CUSTEIO DO SERVICO DE ILUMINACAO PUBLICA - COSIP",
+    "Valor Previsto": 372864908,
+    "Valor Arrecadado": "290323803,68"
+  },
+  {
+    "Fonte": "1752109 - RECURSOS VINCULADOS AO TRANSITO",
+    "Valor Previsto": 189737985,
+    "Valor Arrecadado": "196390251,59"
+  },
+  {
+    "Fonte": "1754110 - RECURSOS DE OPERACOES DE CREDITO",
+    "Valor Previsto": 181744927,
+    "Valor Arrecadado": "2115153678,42"
+  },
+  {
+    "Fonte": "1755104 - RECURSOS DE ALIENACAO DE BENS/ATIVOS - ADMINISTRACAO DIRETA",
+    "Valor Previsto": 168130625,
+    "Valor Arrecadado": "68308775,53"
+  },
+  {
+    "Fonte": "1757100 - RECURSOS DE DEPOSITOS JUDICIAIS - LIDES DAS QUAIS O ENTE FAZ PARTE",
+    "Valor Previsto": 167337571,
+    "Valor Arrecadado": "1800697,56"
+  },
+  {
+    "Fonte": "1759105 - RECURSOS VINCULADOS A FUNDOS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "2027537,52"
+  },
+  {
+    "Fonte": "1759108 - RECURSOS VINCULADOS A FUNDOS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "827657,55"
+  },
+  {
+    "Fonte": "1759113 - RECURSOS VINCULADOS A FUNDOS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "34672572,65"
+  },
+  {
+    "Fonte": "1759143 - RECURSOS VINCULADOS A FUNDOS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "95310440,33"
+  },
+  {
+    "Fonte": "1759144 - RECURSOS VINCULADOS A FUNDOS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "3718282,31"
+  },
+  {
+    "Fonte": "1759148 - RECURSOS VINCULADOS A FUNDOS - RETORNO DE EMPRESTIMOS CONCEDIDOS A INSTITUICOES",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "69656,12"
+  },
+  {
+    "Fonte": "1759199 - RECURSOS VINCULADOS A FUNDOS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "32655660,62"
+  },
+  {
+    "Fonte": "1759268 - RECURSOS VINCULADOS A FUNDOS",
+    "Valor Previsto": 276312081,
+    "Valor Arrecadado": "305015193,9"
+  },
+  {
+    "Fonte": "1799103 - OUTRAS VINCULACOES LEGAIS",
+    "Valor Previsto": 63557625,
+    "Valor Arrecadado": "60075641,92"
+  },
+  {
+    "Fonte": "1800204 - RECURSOS VINCULADOS AO RPPS - FUNDO EM CAPITALIZACAO (PLANO PREVIDENCIARIO) - ALIENACOES D",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "2363337,68"
+  },
+  {
+    "Fonte": "1800214 - RECURSOS VINCULADOS AO RPPS - FUNDO EM CAPITALIZACAO (PLANO PREVIDENCIARIO)",
+    "Valor Previsto": 6099145060,
+    "Valor Arrecadado": "6198889874,51"
+  },
+  {
+    "Fonte": "1802200 - RECURSOS VINCULADOS AO RPPS - TAXA DE ADMINISTRACAO",
+    "Valor Previsto": 83548822,
+    "Valor Arrecadado": "40448007,1"
+  },
+  {
+    "Fonte": "1899105 - OUTROS RECURSOS VINCULADOS",
+    "Valor Previsto": 986890,
+    "Valor Arrecadado": "98485,13"
+  },
+  {
+    "Fonte": "1899106 - OUTROS RECURSOS VINCULADOS",
+    "Valor Previsto": 17809325,
+    "Valor Arrecadado": "24146802,89"
+  },
+  {
+    "Fonte": "1899113 - OUTROS RECURSOS VINCULADOS",
+    "Valor Previsto": 251656575,
+    "Valor Arrecadado": "37715593,69"
+  },
+  {
+    "Fonte": "1899143 - OUTROS RECURSOS VINCULADOS",
+    "Valor Previsto": 33767605,
+    "Valor Arrecadado": "15218,83"
+  },
+  {
+    "Fonte": "1899144 - OUTROS RECURSOS VINCULADOS - MULTAS POR INFRACAO A LEGISLACAO DO MEIO AMBIENTE",
+    "Valor Previsto": 2943007,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "1899146 - OUTROS RECURSOS VINCULADOS",
+    "Valor Previsto": 320423641,
+    "Valor Arrecadado": "251416945,65"
+  },
+  {
+    "Fonte": "1899147 - OUTROS RECURSOS VINCULADOS",
+    "Valor Previsto": 1306238,
+    "Valor Arrecadado": "2662363,32"
+  },
+  {
+    "Fonte": "1899151 - OUTROS RECURSOS VINCULADOS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "2088,63"
+  },
+  {
+    "Fonte": "1899152 - OUTROS RECURSOS VINCULADOS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "19264,92"
+  },
+  {
+    "Fonte": "1899199 - OUTROS RECURSOS VINCULADOS",
+    "Valor Previsto": 23060466,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "9700118 - OUTRAS TRANSFERENCIAS DE CONVENIOS OU INSTRUMENTOS CONGENERES DA UNIAO",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "9749118 - OUTRAS VINCULACOES DE TRANSFERENCIAS",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "9754112 - RECURSOS DE OPERACOES DE CREDITO",
+    "Valor Previsto": 3679079851,
+    "Valor Arrecadado": 0
+  }
+]

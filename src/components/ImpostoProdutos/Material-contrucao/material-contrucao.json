@@ -1,0 +1,19 @@
+[
+  { "produto": "Aço (forma bruta)", "imposto": "37,43%" },
+  { "produto": "Arame farpado", "imposto": "32,92%" },
+  { "produto": "Cimento", "imposto": "30,05%" },
+  { "produto": "Fechadura", "imposto": "41,93%" },
+  { "produto": "Fios elétricos", "imposto": "39,30%" },
+  { "produto": "Madeira bruta", "imposto": "41,69%" },
+
+  { "produto": "Material de construção (geral)", "imposto": "32,80%" },
+  { "produto": "Pincel", "imposto": "35,70%" },
+  { "produto": "Postes e vigas de concreto", "imposto": "39,02%" },
+  { "produto": "Prego", "imposto": "41,16%" },
+  { "produto": "Telha", "imposto": "33,95%" },
+  { "produto": "Tijolo (milheiro)", "imposto": "34,17%" },
+  { "produto": "Tinta", "imposto": "36,17%" },
+  { "produto": "Torneira", "imposto": "38,78%" },
+  { "produto": "Tubos para encanamento", "imposto": "42,06%" },
+  { "produto": "Vaso sanitário", "imposto": "39,95%" }
+]

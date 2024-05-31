@@ -1,0 +1,18 @@
+[
+  { "produto": "Adubo", "imposto": "25.29%" },
+  { "produto": "Batata", "imposto": "11.22%" },
+  { "produto": "Camarão", "imposto": "33.29%" },
+  { "produto": "Carne", "imposto": "29.00%" },
+  { "produto": "Carvão vegetal", "imposto": "34.29%" },
+  { "produto": "Cebola", "imposto": "15.83%" },
+  { "produto": "Farinha de trigo", "imposto": "17.34%" },
+  { "produto": "Feijão", "imposto": "17.24%" },
+  { "produto": "Frango", "imposto": "26,80%" },
+  { "produto": "Frutas", "imposto": "11,78%" },
+  { "produto": "Leite", "imposto": "18,65%" },
+  { "produto": "Ovos de galinha", "imposto": "20.59%" },
+  { "produto": "Peixes", "imposto": "34.48%" },
+  { "produto": "Peru/Chester/Pernil", "imposto": "29.32%" },
+  { "produto": "Tomate", "imposto": "16.84%" },
+  { "produto": "Verduras", "imposto": "16.84%" }
+]

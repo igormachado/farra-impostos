@@ -1,0 +1,222 @@
+[
+  {
+    "Fonte": "100 - ORDINARIOS NAO VINCULADOS",
+    "Valor Previsto": 13065869207,
+    "Valor Arrecadado": "12713587338,71"
+  },
+  {
+    "Fonte": "101 - ORDINARIOS NAO VINCULADOS - CONTRAPARTIDA DE OPERACOES DE CREDITO",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "178290,14"
+  },
+  {
+    "Fonte": "103 - INCENTIVO A CULTURA",
+    "Valor Previsto": 49535490,
+    "Valor Arrecadado": "30371321,02"
+  },
+  {
+    "Fonte": "105 - DOACOES",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "5381886,78"
+  },
+  {
+    "Fonte": "106 - LICENCIAMENTO DE GRUPAMENTO DE EDIFICACOES",
+    "Valor Previsto": 5133382,
+    "Valor Arrecadado": "18286939,1"
+  },
+  {
+    "Fonte": "107 - SALARIO EDUCACAO",
+    "Valor Previsto": 296596062,
+    "Valor Arrecadado": "302815052,88"
+  },
+  {
+    "Fonte": "108 - CONVENIO REALIZADO",
+    "Valor Previsto": 354791596,
+    "Valor Arrecadado": "199462083,61"
+  },
+  {
+    "Fonte": "109 - MULTAS POR INFRACAO A LEGISLACAO DO TRANSITO",
+    "Valor Previsto": 156740144,
+    "Valor Arrecadado": "148979115,13"
+  },
+  {
+    "Fonte": "110 - OPERACOES DE CREDITO CONTRATUAIS REALIZADAS",
+    "Valor Previsto": 1058340207,
+    "Valor Arrecadado": "725152657,82"
+  },
+  {
+    "Fonte": "112 - OPERACOES DE CREDITO CONTRATUAIS A REALIZAR",
+    "Valor Previsto": 401053575,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "113 - OUTRAS",
+    "Valor Previsto": 60732630,
+    "Valor Arrecadado": "50532722,06"
+  },
+  {
+    "Fonte": "114 - PROGRAMA DINHEIRO DIRETO NA ESCOLA - TRANSFERENCIA DO GOVERNO FEDERAL PARA EDUCACAO",
+    "Valor Previsto": 20519173,
+    "Valor Arrecadado": "33110661,79"
+  },
+  {
+    "Fonte": "115 - TRANSFERENCIA DO GOVERNO FEDERAL PARA MERENDA ESCOLAR",
+    "Valor Previsto": 56503489,
+    "Valor Arrecadado": "67954705,02"
+  },
+  {
+    "Fonte": "116 - PROJOVEM URBANO -  TRANSFERENCIA DO GOVERNO FEDERAL PARA A EDUCACAO",
+    "Valor Previsto": 1512165,
+    "Valor Arrecadado": "179529,65"
+  },
+  {
+    "Fonte": "118 - CONVENIOS A REALIZAR",
+    "Valor Previsto": 233750294,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "120 - INSPECAO SANITARIA",
+    "Valor Previsto": 16023020,
+    "Valor Arrecadado": "23978980,16"
+  },
+  {
+    "Fonte": "140 - CONTRIBUICAO DE INTERVENCAO NO DOMINIO ECONOMICO - CIDE",
+    "Valor Previsto": 224029,
+    "Valor Arrecadado": "244434,37"
+  },
+  {
+    "Fonte": "141 - ROYALTIES DO PETROLEO",
+    "Valor Previsto": 221497324,
+    "Valor Arrecadado": "225942650,54"
+  },
+  {
+    "Fonte": "142 - FUNDEB",
+    "Valor Previsto": 1839386473,
+    "Valor Arrecadado": "2041887465,26"
+  },
+  {
+    "Fonte": "143 - HONORARIOS ADVOCATICIOS",
+    "Valor Previsto": 22607616,
+    "Valor Arrecadado": "93601420,27"
+  },
+  {
+    "Fonte": "144 - MULTAS POR INFRACAO A LEGISLACAO DO MEIO AMBIENTE",
+    "Valor Previsto": 5024619,
+    "Valor Arrecadado": "5082065,57"
+  },
+  {
+    "Fonte": "146 - CONTRAPARTIDA - REGULARIZACAO DE OBRAS",
+    "Valor Previsto": 106594076,
+    "Valor Arrecadado": "161732318,4"
+  },
+  {
+    "Fonte": "148 - RETORNO DE EMPRESTIMOS CONCEDIDOS A INSTITUICOES",
+    "Valor Previsto": 21511,
+    "Valor Arrecadado": "19399,54"
+  },
+  {
+    "Fonte": "150 - COSIP",
+    "Valor Previsto": 198519884,
+    "Valor Arrecadado": "212177909,85"
+  },
+  {
+    "Fonte": "151 - CONTRAPARTIDA PEU DAS VARGENS E OUTRAS - LC 104/2009",
+    "Valor Previsto": 17091084,
+    "Valor Arrecadado": "107996364,5"
+  },
+  {
+    "Fonte": "152 - CONTRAPARTIDA AREA DE ESPECIAL INTERESSE URBANISTICO - AEIU - PORTO - DECRETO 35491/2012",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "3307273,5"
+  },
+  {
+    "Fonte": "180 - ATENCAO BASICA",
+    "Valor Previsto": 311700827,
+    "Valor Arrecadado": "310005785,95"
+  },
+  {
+    "Fonte": "181 - ATENCAO DE MEDIA E ALTA COMPLEXIDADE AMBULATORIAL E HOSPITALAR",
+    "Valor Previsto": 1355022534,
+    "Valor Arrecadado": "1001136113,14"
+  },
+  {
+    "Fonte": "182 - VIGILANCIA EM SAUDE",
+    "Valor Previsto": 79618160,
+    "Valor Arrecadado": "61696237,38"
+  },
+  {
+    "Fonte": "183 - ASSISTENCIA FARMACEUTICA",
+    "Valor Previsto": 55043613,
+    "Valor Arrecadado": "47078460,28"
+  },
+  {
+    "Fonte": "184 - GESTAO DO SUS",
+    "Valor Previsto": 1227829,
+    "Valor Arrecadado": "1880659,66"
+  },
+  {
+    "Fonte": "185 - INVESTIMENTOS NA REDE DE SERVICOS DE SAUDE",
+    "Valor Previsto": 3021618,
+    "Valor Arrecadado": 7735749
+  },
+  {
+    "Fonte": "193 - TRANSFERENCIA DO FUNDO NACIONAL E ESTADUAL DE ASSISTENCIA SOCIAL",
+    "Valor Previsto": 27778404,
+    "Valor Arrecadado": "34749614,75"
+  },
+  {
+    "Fonte": "194 - SISTEMA UNICO DE SAUDE",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": "11439,63"
+  },
+  {
+    "Fonte": "195 - MULTAS POR INFRACAO A LEGISLACAO DE SAUDE",
+    "Valor Previsto": 8086975,
+    "Valor Arrecadado": "10639599,92"
+  },
+  {
+    "Fonte": "199 - FECMRJ",
+    "Valor Previsto": 5981545,
+    "Valor Arrecadado": "9986386,64"
+  },
+  {
+    "Fonte": "200 - RECEITA PROPRIA DE AUTARQUIAS FUNDACOES E EMPRESAS",
+    "Valor Previsto": 916215317,
+    "Valor Arrecadado": "578702228,86"
+  },
+  {
+    "Fonte": "208 - CONVENIOS",
+    "Valor Previsto": 1500000,
+    "Valor Arrecadado": "999666,15"
+  },
+  {
+    "Fonte": "218 - CONVENIOS A REALIZAR",
+    "Valor Previsto": 3767000,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "265 - CONTRIBUICAO PREVIDENCIARIA SUPLEMENTAR",
+    "Valor Previsto": 1161437963,
+    "Valor Arrecadado": "1182697886,54"
+  },
+  {
+    "Fonte": "267 - CONTRIBUICAO PREVIDENCIARIA - ADMITIDOS ATE  15/12/1998",
+    "Valor Previsto": 0,
+    "Valor Arrecadado": 0
+  },
+  {
+    "Fonte": "268 - FUNDO DE ASSISTENCIA A SAUDE DO SERVIDOR",
+    "Valor Previsto": 149748711,
+    "Valor Arrecadado": "137811884,06"
+  },
+  {
+    "Fonte": "269 - RETORNO DE EMPRESTIMOS CONCEDIDOS A SERVIDORES",
+    "Valor Previsto": 125000000,
+    "Valor Arrecadado": "81814614,05"
+  },
+  {
+    "Fonte": "270 - CONTRIBUICAO PREVIDENCIARIA",
+    "Valor Previsto": 1119378980,
+    "Valor Arrecadado": "1110216827,94"
+  }
+]

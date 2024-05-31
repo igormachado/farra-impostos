@@ -1,0 +1,338 @@
+[
+ {
+   "Orgao": "COMPANHIA DE ENGENHARIA DE TRÁFEGO DO RIO DE JANEIRO",
+   "Valor Pago": "259.745.816,00"
+ },
+ {
+   "Orgao": "COMPANHIA MUNICIPAL DE CONSERVAÇÃO E OBRAS PÚBLICAS",
+   "Valor Pago": "325.083,00"
+ },
+ {
+   "Orgao": "COMPANHIA MUNICIPAL DE ENERGIA E ILUMINAÇÃO",
+   "Valor Pago": "46.918.956,00"
+ },
+ {
+   "Orgao": "COMPANHIA MUNICIPAL DE LIMPEZA URBANA",
+   "Valor Pago": "1.814.851.457,00"
+ },
+ {
+   "Orgao": "CONTROLADORIA GERAL DO MUNICÍPIO DO RIO DE JANEIRO",
+   "Valor Pago": "56.586.906,00"
+ },
+ {
+   "Orgao": "DISTRIBUIDORA DE FILMES S.A.",
+   "Valor Pago": "0,00"
+ },
+ {
+   "Orgao": "DISTRIBUIDORA DE FILMES S.A. - RIOFILME",
+   "Valor Pago": "20.145.338,00"
+ },
+ {
+   "Orgao": "EMPRESA DE TURISMO DO MUNICÍPIO DO RIO DE JANEIRO",
+   "Valor Pago": "117.045.876,00"
+ },
+ {
+   "Orgao": "EMPRESA MUNICIPAL DE ARTES GRÁFICAS",
+   "Valor Pago": "0,00"
+ },
+ {
+   "Orgao": "EMPRESA MUNICIPAL DE ARTES GRÁFICAS S/A",
+   "Valor Pago": "14.981.643,00"
+ },
+ {
+   "Orgao": "EMPRESA MUNICIPAL DE INFORMÁTICA S.A.",
+   "Valor Pago": "128.757.063,00"
+ },
+ {
+   "Orgao": "EMPRESA MUNICIPAL DE INFORMÁTICA S.A. - IPLANRIO",
+   "Valor Pago": "0,00"
+ },
+ {
+   "Orgao": "EMPRESA MUNICIPAL DE URBANIZAÇÃO - RIO-URBE",
+   "Valor Pago": "286.821.948,00"
+ },
+ {
+   "Orgao": "EMPRESA OLÍMPICA MUNICIPAL S/A",
+   "Valor Pago": "22.006.822,00"
+ },
+ {
+   "Orgao": "EMPRESA PÚBLICA DE SAÚDE DO RIO DE JANEIRO S/A",
+   "Valor Pago": "72.956.383,00"
+ },
+ {
+   "Orgao": "ENCARGOS GERAIS DO MUNICÍPIO",
+   "Valor Pago": "3.464.104.862,00"
+ },
+ {
+   "Orgao": "FUNDAÇÃO CIDADE DAS ARTES",
+   "Valor Pago": "18.455.971,00"
+ },
+ {
+   "Orgao": "FUNDAÇÃO INSTITUTO DAS ÁGUAS DO MUNICÍPIO DO RIO DE JANEIRO",
+   "Valor Pago": "644.906.688,00"
+ },
+ {
+   "Orgao": "FUNDAÇÃO INSTITUTO DE GEOTÉCNICA DO MUNICÍPIO DO RIO DE JANEIRO",
+   "Valor Pago": "301.815.987,00"
+ },
+ {
+   "Orgao": "FUNDAÇÃO JARDIM ZOOLÓGICO DA CIDADE DO RIO DE JANEIRO",
+   "Valor Pago": "19.177.785,00"
+ },
+ {
+   "Orgao": "FUNDAÇÃO PARQUES E JARDINS",
+   "Valor Pago": "16.136.831,00"
+ },
+ {
+   "Orgao": "FUNDAÇÃO PLANETÁRIO DA CIDADE DO RIO DE JANEIRO",
+   "Valor Pago": "14.372.307,00"
+ },
+ {
+   "Orgao": "FUNDO DE ASSISTÊNCIA À SAÚDE DO SERVIDOR",
+   "Valor Pago": "218.380.000,00"
+ },
+ {
+   "Orgao": "FUNDO DE CONSERVAÇÃO AMBIENTAL",
+   "Valor Pago": "23.956.176,00"
+ },
+ {
+   "Orgao": "FUNDO DE DESENVOLVIMENTO ECONÔMICO E TRABALHO DO MRJ",
+   "Valor Pago": "30.191,00"
+ },
+ {
+   "Orgao": "FUNDO DE MOBILIZAÇÃO DO ESPORTE OLÍMPICO",
+   "Valor Pago": "2.110.000,00"
+ },
+ {
+   "Orgao": "FUNDO DE PREVIDÊNCIA DO MUNICÍPIO DO RIO DE JANEIRO",
+   "Valor Pago": "4.167.799.800,00"
+ },
+ {
+   "Orgao": "FUNDO ESPECIAL DE ILUMINAÇÃO PÚBLICA",
+   "Valor Pago": "302.431.768,00"
+ },
+ {
+   "Orgao": "FUNDO ESPECIAL DE PREVIDÊNCIA DO MUNICÍPIO DO RIO DE JANEIRO",
+   "Valor Pago": "0,00"
+ },
+ {
+   "Orgao": "FUNDO ESPECIAL PROJETO TIRADENTES",
+   "Valor Pago": "163.543,00"
+ },
+ {
+   "Orgao": "FUNDO MUNICIPAL ANTIDROGAS",
+   "Valor Pago": "15.683,00"
+ },
+ {
+   "Orgao": "FUNDO MUNICIPAL DE AMPARO À PESQUISA DO MUNICÍPIO DO RIO DE JANEIRO",
+   "Valor Pago": "2.110,00"
+ },
+ {
+   "Orgao": "FUNDO MUNICIPAL DE ASSISTÊNCIA SOCIAL",
+   "Valor Pago": "139.333.293,00"
+ },
+ {
+   "Orgao": "FUNDO MUNICIPAL DE CONSERVAÇÃO DO PATRIMONIO CULTURAL",
+   "Valor Pago": "3.227.773,00"
+ },
+ {
+   "Orgao": "FUNDO MUNICIPAL DE HABITAÇÃO",
+   "Valor Pago": "627.807.479,00"
+ },
+ {
+   "Orgao": "FUNDO MUNICIPAL DE HABITAÇÃO DE INTERESSE SOCIAL",
+   "Valor Pago": "4.532.145,00"
+ },
+ {
+   "Orgao": "FUNDO MUNICIPAL DE PROTEÇÃO E DEFESA DO CONSUMIDOR",
+   "Valor Pago": "4.038.105,00"
+ },
+ {
+   "Orgao": "FUNDO MUNICIPAL DO IDOSO",
+   "Valor Pago": "156.729,00"
+ },
+ {
+   "Orgao": "FUNDO MUNICIPAL PARA ATENDIMENTO DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE",
+   "Valor Pago": "2.221.894,00"
+ },
+ {
+   "Orgao": "FUNDO ORÇAMENTÁRIO ESPECIAL DA PGM",
+   "Valor Pago": "18.825.870,00"
+ },
+ {
+   "Orgao": "GABINETE DO PREFEITO",
+   "Valor Pago": "37.347.494,00"
+ },
+ {
+   "Orgao": "GUARDA MUNICIPAL DO RIO DE JANEIRO",
+   "Valor Pago": "457.240.767,00"
+ },
+ {
+   "Orgao": "INSTITUTO DE PREVIDÊNCIA E ASSISTÊNCIA DO MUNICÍPIO DO RIO DE JANEIRO",
+   "Valor Pago": "296.162.430,00"
+ },
+ {
+   "Orgao": "INSTITUTO MUNICIPAL DE URBANISMO PEREIRA PASSOS",
+   "Valor Pago": "20.866.968,00"
+ },
+ {
+   "Orgao": "MULTIRIO - EMPRESA MUNICIPAL DE MULTIMEIOS LTDA.",
+   "Valor Pago": "34.665.683,00"
+ },
+ {
+   "Orgao": "PROCURADORIA GERAL DO MUNICÍPIO DO RIO DE JANEIRO",
+   "Valor Pago": "333.588.028,00"
+ },
+ {
+   "Orgao": "RESERVA DE CONTINGÊNCIA",
+   "Valor Pago": "47.100.000,00"
+ },
+ {
+   "Orgao": "RIOCENTRO S.A. - CENTRO DE FEIRAS, EXPOSIÇÕES E CONGRESSOS DO RIO DE JANEIRO",
+   "Valor Pago": "8.288.545,00"
+ },
+ {
+   "Orgao": "SECRETARIA ESPECIAL DE ABASTECIMENTO E SEGURANÇA ALIMENTAR",
+   "Valor Pago": "3.816.415,00"
+ },
+ {
+   "Orgao": "SECRETARIA ESPECIAL DE CIÊNCIA E TECNOLOGIA",
+   "Valor Pago": "24.470.119,00"
+ },
+ {
+   "Orgao": "SECRETARIA ESPECIAL DE CONCESSÕES E PARCERIAS PÚBLICO PRIVADAS",
+   "Valor Pago": "398.195.543,00"
+ },
+ {
+   "Orgao": "SECRETARIA ESPECIAL DE DESENVOLVIMENTO ECONÔMICO SOLIDÁRIO",
+   "Valor Pago": "37.267.941,00"
+ },
+ {
+   "Orgao": "SECRETARIA ESPECIAL DE POLÍTICAS PARA AS MULHERES",
+   "Valor Pago": "4.515.247,00"
+ },
+ {
+   "Orgao": "SECRETARIA ESPECIAL DE PROMOÇÃO E DEFESA DOS ANIMAIS",
+   "Valor Pago": "7.299.923,00"
+ },
+ {
+   "Orgao": "SECRETARIA ESPECIAL DE TURISMO",
+   "Valor Pago": "3.644.289,00"
+ },
+ {
+   "Orgao": "SECRETARIA ESPECIAL DO ENVELHECIMENTO SAUDÁVEL E QUALIDADE DE VIDA",
+   "Valor Pago": "39.883.316,00"
+ },
+ {
+   "Orgao": "SECRETARIA EXECUTIVA DE COORDENAÇÃO DE GOVERNO",
+   "Valor Pago": "15.138.194,00"
+ },
+ {
+   "Orgao": "SECRETARIA EXTRAORDINÁRIA DE INTEGRAÇÃO METROPOLITANA",
+   "Valor Pago": "277.000,00"
+ },
+ {
+   "Orgao": "SECRETARIA EXTRAORDINÁRIA DE PROTEÇÃO E DEFESA DO CONSUMIDOR",
+   "Valor Pago": "0,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DA CASA CIVIL",
+   "Valor Pago": "165.365.157,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DA PESSOA COM DEFICIÊNCIA",
+   "Valor Pago": "20.393.734,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE ADMINISTRAÇÃO",
+   "Valor Pago": "48.689.275,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE ASSISTÊNCIA SOCIAL E DIREITOS HUMANOS",
+   "Valor Pago": "266.443.150,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE CONSERVAÇÃO E MEIO AMBIENTE",
+   "Valor Pago": "61.704.221,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE CONSERVAÇÃO E SERVIÇOS PÚBLICOS",
+   "Valor Pago": "456.821.848,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE CULTURA",
+   "Valor Pago": "190.201.493,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO SOCIAL",
+   "Valor Pago": "0,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE DESENVOLVIMENTO, EMPREGO E INOVAÇÃO",
+   "Valor Pago": "13.273.959,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE EDUCAÇÃO",
+   "Valor Pago": "0,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE EDUCAÇÃO, ESPORTES E LAZER",
+   "Valor Pago": "6.584.495.065,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE ESPORTES E LAZER",
+   "Valor Pago": "42.204.361,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE FAZENDA",
+   "Valor Pago": "292.701.090,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE HABITAÇÃO",
+   "Valor Pago": "0,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE HABITAÇÃO E CIDADANIA",
+   "Valor Pago": "48.080.222,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE MEIO AMBIENTE",
+   "Valor Pago": "0,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE OBRAS",
+   "Valor Pago": "0,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE ORDEM PÚBLICA",
+   "Valor Pago": "31.731.350,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE SANEAMENTO E RECURSOS HÍDRICOS",
+   "Valor Pago": "1.727.692,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE SAÚDE",
+   "Valor Pago": "4.925.320.023,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE SAÚDE E DEFESA CIVIL",
+   "Valor Pago": "0,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE TRABALHO E EMPREGO",
+   "Valor Pago": "0,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE TRANSPORTES",
+   "Valor Pago": "52.858.598,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE URBANISMO",
+   "Valor Pago": "68.259.179,00"
+ },
+ {
+   "Orgao": "SECRETARIA MUNICIPAL DE URBANISMO, INFRAESTRUTURA E HABITAÇÃO",
+   "Valor Pago": "2.160.093.996,00"
+ }
+]

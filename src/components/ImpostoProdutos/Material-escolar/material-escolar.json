@@ -1,0 +1,29 @@
+[
+  { "produto": "Agenda escolar", "imposto": "43,19%" },
+  { "produto": "Apontador", "imposto": "43,19%" },
+  { "produto": "Borracha escolar", "imposto": "43,19%" },
+
+  { "produto": "Caderno universitário", "imposto": "34,99%" },
+  { "produto": "Caneta", "imposto": "49,95%" },
+  { "produto": "Cola tenaz", "imposto": "42,71%" },
+
+  { "produto": "Estojos para lápis", "imposto": "40,33%" },
+  { "produto": "Fichário", "imposto": "39,38%" },
+  { "produto": "Folhas para fichário", "imposto": "37,77%" },
+
+  { "produto": "Lancheiras", "imposto": "39,74%" },
+  { "produto": "Lápis", "imposto": "34,99%" },
+  { "produto": "Livro escolar", "imposto": "15,52%" },
+
+  { "produto": "Papel carbono", "imposto": "38,68%" },
+  { "produto": "Papel pardo", "imposto": "34,99%" },
+  { "produto": "Papel sulfite", "imposto": "37,77%" },
+
+  { "produto": "Pastas em geral", "imposto": "39,97%" },
+  { "produto": "Pastas plásticas", "imposto": "40,09%" },
+  { "produto": "Plástico 0,15", "imposto": "39,89%" },
+
+  { "produto": "Régua", "imposto": "44,65%" },
+  { "produto": "Tinta guache", "imposto": "36,13%" },
+  { "produto": "Tinta plástica", "imposto": "36,22%" }
+]

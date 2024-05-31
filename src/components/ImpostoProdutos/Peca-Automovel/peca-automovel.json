@@ -1,0 +1,77 @@
+[
+  { "produto": "Acionador de vidro elétrico da porta", "imposto": "43,06%" },
+
+  { "produto": "Amortecedor", "imposto": "43,03%" },
+  { "produto": "Lápis", "imposto": "34,99%" },
+  { "produto": "Amplificador", "imposto": "46,60%" },
+
+  { "produto": "Alto-falante", "imposto": "46,58%" },
+  { "produto": "Bateria para veículos", "imposto": "49,59%" },
+  { "produto": "Bico injetor", "imposto": "43,03%" },
+
+  { "produto": "Bobina de ignição", "imposto": "49,59%" },
+  { "produto": "Buzina (automóvel)", "imposto": "35,66%" },
+  { "produto": "Caixa de marchas", "imposto": "43,00%" },
+
+  { "produto": "Cabo de som", "imposto": "39,63%" },
+  { "produto": "Caixa acústica", "imposto": "46,68%" },
+  { "produto": "Câmera de ré automotiva", "imposto": "50,06%" },
+
+  { "produto": "Carburador", "imposto": "43,03%" },
+
+  { "produto": "Catalisador para carro", "imposto": "46,41%" },
+  { "produto": "CD Player", "imposto": "42,10%" },
+  { "produto": "Central de injeção", "imposto": "49,59%" },
+
+  { "produto": "Central multimídia", "imposto": "49,82%" },
+  { "produto": "Chicote (acessório veículo)", "imposto": "39,68%" },
+  { "produto": "Cinto de segurança", "imposto": "24,76%" },
+
+  { "produto": "Disco de freio", "imposto": "43,03%" },
+  { "produto": "DVD automotivo de teto", "imposto": "446,63%" },
+  { "produto": "DVD automotivo", "imposto": "46,63%" },
+
+  { "produto": "Encosto de cabeça com monitor", "imposto": "49,82%" },
+  { "produto": "Engate veicular", "imposto": "39,92%" },
+  { "produto": "Farol auxiliar", "imposto": "46,72%" },
+  { "produto": "Farol principal", "imposto": "46,72%" },
+  { "produto": "Filtro de ar", "imposto": "40,74%" },
+  { "produto": "Filtro de combustível", "imposto": "39,18%" },
+
+  { "produto": "Filtro de óleo", "imposto": "38,02%" },
+  { "produto": "GPS", "imposto": "50,30%" },
+  { "produto": "Junta homocinética", "imposto": "43,03%" },
+
+  { "produto": "Kit de alarme com ultrassom", "imposto": "46,75%" },
+  { "produto": "Kit de embreagem", "imposto": "50,29%" },
+  { "produto": "Kit de lâmpadas xenon", "imposto": "46,61%" },
+
+  { "produto": "Kit de travas elétricas", "imposto": "43,30%" },
+  { "produto": "Lâmpada de farol automotivo", "imposto": "46,65%" },
+  { "produto": "Lâmpada LED", "imposto": "37,84%" },
+
+  { "produto": "Lanterna para veículo", "imposto": "49,59%" },
+  { "produto": "Lataria (para-lamas)", "imposto": "43,03%" },
+  { "produto": "Lataria (porta)", "imposto": "43,03%" },
+
+  { "produto": "Módulo de potência para som", "imposto": "46,54%" },
+  {
+    "produto": "Módulo de vidro elétrico (subida expressa)",
+    "imposto": "43,18%"
+  },
+  {
+    "produto": "Módulo de vidro elétrico (subida simples)",
+    "imposto": "46,63%"
+  },
+
+  { "produto": "Óleo lubrificante", "imposto": "39,18%" },
+  { "produto": "Palheta do limpador de para-brisa", "imposto": "46,72%" },
+  { "produto": "Parafuso", "imposto": "41,16%" },
+
+  { "produto": "Pneu", "imposto": "35,72%" },
+  { "produto": "Radiador", "imposto": "43,03%" },
+  { "produto": "Rolamento", "imposto": "47,16%" },
+  { "produto": "Sistema de suspensão", "imposto": "43,03%" },
+  { "produto": "Suporte para celulares e GPS", "imposto": "46,57%" },
+  { "produto": "Triângulo para veículo", "imposto": "44,65%" }
+]

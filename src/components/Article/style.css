@@ -1,0 +1,11 @@
+
+
+.carousel-item {
+    width: 400px;
+    
+}
+
+#container-article {
+    display: flex;
+    align-items: center;
+}

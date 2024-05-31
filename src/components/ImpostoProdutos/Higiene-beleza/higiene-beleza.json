@@ -1,0 +1,29 @@
+[
+  { "produto": "Algodão de limpeza", "imposto": "34,67%" },
+  { "produto": "Aparelho de barbear", "imposto": "40,78%" },
+  { "produto": "Bronzeador", "imposto": "49,08%" },
+  { "produto": "Condicionadores (banho)", "imposto": "37,37%" },
+  { "produto": "Cosméticos", "imposto": "55,27%" },
+
+  { "produto": "Creme de barbear", "imposto": "57,05%" },
+  { "produto": "Creme de beleza", "imposto": "57,02%" },
+  { "produto": "Desodorantes", "imposto": "37,37%" },
+  { "produto": "Ducha higiênica", "imposto": "35,24%" },
+  { "produto": "Escova de dente", "imposto": "34,00%" },
+  { "produto": "Espuma para barbear", "imposto": "42,56%" },
+  { "produto": "Fralda descartável", "imposto": "34,21%" },
+  { "produto": "Graxa para sapatos", "imposto": "41,27%" },
+  { "produto": "Maquiagem (produtos importados)", "imposto": "69,53%" },
+  { "produto": "Maquiagem (produtos nacionais)", "imposto": "51,41%" },
+  { "produto": "Navalha", "imposto": "43,47%" },
+  { "produto": "Papel higiênico (com 4 rolos)", "imposto": "32,55%" },
+  { "produto": "Pasta de dentes", "imposto": "31,37%" },
+
+  { "produto": "Pente", "imposto": "44,75%" },
+  { "produto": "Perfume (produtos importados)", "imposto": "78,99%" },
+  { "produto": "Perfume (produtos nacionais)", "imposto": "69,13%" },
+  { "produto": "Sabonete", "imposto": "31,13%" },
+  { "produto": "Shampoo", "imposto": "44,20%" },
+
+  { "produto": "Talco", "imposto": "49,42%" }
+]

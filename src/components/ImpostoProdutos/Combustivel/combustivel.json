@@ -1,0 +1,8 @@
+[
+  { "produto": "Álcool", "imposto": "29,48%" },
+  { "produto": "Diesel", "imposto": "42,18%" },
+  { "produto": "Gás de cozinha", "imposto": "34,04%" },
+  { "produto": "Gasolina", "imposto": "61,95%" },
+  { "produto": "Lubrificantes", "imposto": "37,55%" },
+  { "produto": "Querosene para aviação", "imposto": "46,72%" }
+]

@@ -1,0 +1,34 @@
+[
+  { "produto": "Bermuda", "imposto": "34,67%" },
+  { "produto": "Biquíni", "imposto": "33,44%" },
+  { "produto": "Biquíni com lantejoulas", "imposto": "42,19%" },
+
+  { "produto": "Blazer", "imposto": "34,67%" },
+  { "produto": "Bota", "imposto": "36,17%" },
+  { "produto": "Cachecol", "imposto": "34,13%" },
+  { "produto": "Calça (tecido)", "imposto": "34,67%" },
+  { "produto": "Calça de couro", "imposto": "39,80%" },
+  { "produto": "Calça jeans ", "imposto": "38,53%" },
+  { "produto": "Camisa", "imposto": "34,67%" },
+
+  { "produto": "Camisa time de futebol", "imposto": "34,67%" },
+  { "produto": "Camiseta", "imposto": "34,67%" },
+  { "produto": "Casaco de pele vison", "imposto": "81,86%" },
+
+  { "produto": "Casaco de moletom", "imposto": "34,67%" },
+  { "produto": "Chinelo", "imposto": "31,09%" },
+  { "produto": "Fantasia - roupa com arame", "imposto": "33,91%" },
+  { "produto": "Fantasia - roupa tecido", "imposto": "36,41%" },
+  { "produto": "Gibão de couro", "imposto": "39,80%" },
+  { "produto": "Jaqueta ", "imposto": "34,67%" },
+  { "produto": "Malha", "imposto": "34,13%" },
+
+  { "produto": "Pijama", "imposto": "34,67%" },
+  { "produto": "Roupas", "imposto": "34,67%" },
+  { "produto": "Sapatos", "imposto": "36,17%" },
+
+  { "produto": "Tecidos", "imposto": "35,74%" },
+  { "produto": "Tênis importado", "imposto": "58,59%" },
+  { "produto": "Tênis nacional", "imposto": "44,00%" },
+  { "produto": "Terno (traje)", "imposto": "34,67%" }
+]

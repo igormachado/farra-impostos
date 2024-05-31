@@ -1,0 +1,17 @@
+[
+  { "produto": "Absorvente higiênico", "imposto": "34,48%" },
+  { "produto": "Água de colônia (nacional)", "imposto": "50,38%" },
+
+  { "produto": "Água sanitária", "imposto": "26,05%" },
+  { "produto": "Álcool (material de limpeza)", "imposto": "32,77%" },
+  { "produto": "Amaciante", "imposto": "34,30%" },
+  { "produto": "Cera", "imposto": "46,55%" },
+  { "produto": "Desinfetante", "imposto": "26,05%" },
+  { "produto": "Detergente", "imposto": "30,37%" },
+  { "produto": "Esponja de aço (pacote com 4 unidades)", "imposto": "40,62%" },
+
+  { "produto": "Sabão em barra", "imposto": "30,37%" },
+  { "produto": "Sabão em pó", "imposto": "40,80%" },
+  { "produto": "Saponáceo", "imposto": "39,30%" },
+  { "produto": "Vassoura", "imposto": "34,27%" }
+]
